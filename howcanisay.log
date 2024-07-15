@@ -1,0 +1,10 @@
+16-07-2024 00:15:11 [DEBUG] translator.py: 44: Detected source language: Nepali
+16-07-2024 00:15:11 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+16-07-2024 00:15:18 [DEBUG] translator.py: 44: Detected source language: Nepali
+16-07-2024 00:15:18 [DEBUG] app.py: 39: Selected destination language as English
+16-07-2024 00:15:19 [DEBUG] translator.py: 56: Source text: timro naam k ho?
+16-07-2024 00:15:19 [DEBUG] translator.py: 57: Source language: Nepali
+16-07-2024 00:15:19 [DEBUG] translator.py: 58: Target language: English
+16-07-2024 00:15:20 [DEBUG] translator.py: 79: Translation: What is your name?
+16-07-2024 00:15:21 [DEBUG] translator.py: 44: Detected source language: Nepali
+16-07-2024 00:15:21 [DEBUG] app.py: 39: Selected destination language as English
